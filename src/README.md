@@ -1,10 +1,10 @@
-# game-design
+# src
 
-Aqui você encontra toda a documentação do design de jogos (Game Design Document — GDD) para o universo Old Path Nautam.
+Este diretório armazena o código-fonte principal da linguagem GuruDev Amaranto — Game Edition (18+).
 
-## O que você encontrará aqui:
+## O que encontrar aqui?
 
-- Estrutura do jogo (mecânicas, narrativa, regras, personagens).
-- Wireframes, diagramas de fluxo, mapas de mundo, storyboard.
-- Documentos sobre temas 18+ (violência, pirataria, dilemas éticos etc).
+- Implementações da linguagem (parsers, scripts, módulos).
+- Exemplos funcionais de código para jogos adultos, usando GuruDev Amaranto.
+- Protótipos de integração com engines de game (Godot, Unity, Ren'Py etc).
 
