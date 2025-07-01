@@ -1,0 +1,18 @@
+# Exemplo de Hello World — GuruDev Amaranto (versão games 18+)
+# 
+# A linguagem GuruDev Amaranto foi concebida para ser didática, acessível e multicultural, promovendo a criatividade e a expressão em projetos narrativos e de jogos, especialmente para temas adultos e transdisciplinares.
+#
+# Abaixo apresentamos o exemplo clássico "Hello, World!", que serve para demonstrar o funcionamento básico do comando de saída de texto.
+#
+# Por que chegamos a este resultado?
+# ----------------------------------
+# Ao longo do desenvolvimento da linguagem, buscamos evitar ambiguidade e garantir clareza na sintaxe.
+# Para isso:
+# - Definimos palavras-chave e namespaces reservados (ex: VOC, NOM, Math, Texto).
+# - O comando de saída foi padronizado como VOC.escrever() ou VOC.imprimir(), reforçando a ideia de namespace e método, inspirado em boas práticas de linguagens modernas.
+# - O uso do ponto (“.”) separa claramente o namespace do método, evitando conflitos com identificadores de usuário.
+#
+# O resultado é uma sintaxe que valoriza a legibilidade, a multiculturalidade e a didática, ideal para iniciantes e para projetos colaborativos.
+#
+# Veja o exemplo em ação:
+VOC.escrever("Olá, Navegante do Old Path Nautam!");
